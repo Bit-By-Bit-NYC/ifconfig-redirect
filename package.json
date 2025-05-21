@@ -1,8 +1,10 @@
 {
-  "name": "ifconfig-redirect",
+  "name": "ifconfig-ip-display",
   "version": "1.0.0",
-  "description": "A simple static redirect for ifconfig.me",
+  "description": "A static web app to display client IP using Azure Functions.",
   "scripts": {
-    "build": "echo No build step required"
-  }
+    "build": "echo No build step required for static content and Azure Functions via SWA CLI."
+  },
+  "author": "",
+  "license": "ISC"
 }
